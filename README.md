@@ -1,19 +1,87 @@
 <h1 align="center">Hi 👋, I'm Ratnadeep Gosavi</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">
+AI • Full-Stack • TinyML • IoT • Blockchain  
+<br/>Building intelligent systems that connect software, hardware, and data
+</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ratnadip03&label=Profile%20views&color=0e75b6&style=flat" alt="ratnadip03" /> </p>
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ratnadip03" alt="ratnadip03" /></a> </p>
+### 🧠 About Me
+- 🎓 B.Tech CSE (Artificial Intelligence & Machine Learning)
+- 🛠 I build at the intersection of **software, hardware, and AI**
+- 🔍 Interested in **end-to-end systems** — from sensors and firmware to APIs and UIs
+- 🚀 Prefer learning by **building, testing, breaking, and improving**
+- 🌍 Comfortable working in **remote, async, and fast-iteration environments**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+### 🧩 What I Build
+- 🌐 **Full-Stack Applications** with APIs, databases, and dashboards
+- 🤖 **AI / ML systems** for prediction, recommendation, and automation
+- 🧠 **TinyML on edge devices** (ESP32-class hardware, on-device inference)
+- 📡 **IoT & Electronics systems** integrating sensors, communication modules, and logic
+- 🔗 **Blockchain-based systems** focused on transparency, verification, and decentralization
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ratnadip03&show_icons=true&locale=en&layout=compact" alt="ratnadip03" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ratnadip03&show_icons=true&locale=en" alt="ratnadip03" /></p>
+### 🚨 Key Projects
+- **TrackTots**  
+  An intelligent safety & emergency system combining:
+  - IoT sensors & embedded logic  
+  - TinyML for on-device intelligence  
+  - Backend services for alerts & data handling  
+  - Web dashboards for monitoring & visualization  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ratnadip03&" alt="ratnadip03" /></p>
+- **AI-Powered Web Applications**  
+  Systems using ML models for:
+  - Predictions & recommendations  
+  - Decision-making engines  
+  - Intelligent user workflows  
+
+- **Decentralized / Blockchain Experiments**  
+  Implementations exploring:
+  - Trustless logging  
+  - Proof-of-event mechanisms  
+  - Web3 integrations with frontend systems  
+
+---
+
+### 🛠️ Tech Stack
+
+#### 💻 Software & AI
+- **Languages:** JavaScript, Python, C/C++
+- **Frontend:** React, HTML, CSS
+- **Backend:** Node.js, Express, REST APIs
+- **Databases:** PostgreSQL
+- **AI / ML:** Model integration, inference pipelines, TinyML concepts
+- **Data Flow:** Real-time processing & feature pipelines
+
+#### ⚙️ Electronics & IoT
+- **Microcontrollers:** ESP32
+- **Sensors:** Motion, sound, health, environmental sensors
+- **Communication:** GSM, GPS, LoRa, Wi-Fi
+- **Edge AI:** TinyML deployment & optimization
+- **Hardware:** Power systems, embedded debugging
+
+#### 🔗 Blockchain & Web3
+- Smart contract fundamentals
+- Decentralized application (DApp) architecture
+- Blockchain-backed verification & event logging
+
+#### 🧰 Tools & Platforms
+- Git & GitHub
+- Linux
+- Postman
+- Cloud integration fundamentals
+- Unity & Android (experimentation)
+- Design tools for UI/UX clarity
+
+---
+
+### 📈 How I Think & Work
+- Systems-first mindset
+- Clear, maintainable, and explainable code
+- Focus on integration, not isolated components
+- Iterate fast, refine continuously
+
+⭐ Code > buzzwords. Systems > slogans.
